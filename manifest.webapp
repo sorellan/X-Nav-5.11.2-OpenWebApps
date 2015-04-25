@@ -1,9 +1,9 @@
 {
 	"name": "My_Locator",
 	"description": "My damn simple locator",
-	"launch_path": "/index.html",
+	"launch_path": "/X-Nav-5.11.2-OpenWebApps/index.html",
 	"icons": {
-		"128": "/map-icon.png"
+		"128": "/X-Nav-5.11.2-OpenWebApps/map-icon.png"
 	},
 	"developer": {
 		"name": "Samuel Salcedo Orellana",

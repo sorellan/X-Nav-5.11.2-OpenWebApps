@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "name": "My_Locator",
+  "package_path" : "http://sorellan.github.io/X-Nav-5.11.2-OpenWebApps/compressed/my_location.zip",
+  "description": "My damn simple locator",
+  "developer": {
+    "name": "Samuel Salcedo Orellana",
+    "url": "https://github.com/sorellan"
+  }
+}
